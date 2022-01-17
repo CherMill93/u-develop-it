@@ -25,7 +25,7 @@ const db = mysql.createConnection(
     // Your MySQL username,
     user: 'root',
     // Your MySQL password
-    password: 'sh3rb3rtl3mon1', //password goes here | REMOVED UPON GITHUB UPLOAD
+    password: '', //password goes here | REMOVED UPON GITHUB UPLOAD
     database: 'election'
   },
   console.log('Connected to the election database.')
